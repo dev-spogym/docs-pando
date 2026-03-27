@@ -1,5 +1,6 @@
 {
   "index": "결제 정책",
-  "refund": "환불 / 위약금 정책",
-  "closing": "매출 마감 정책"
+  "refund": "환불 / 위약금",
+  "contracts": "계약 / 구독",
+  "closing": "매출 마감"
 }
