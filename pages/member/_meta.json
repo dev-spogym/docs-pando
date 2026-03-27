@@ -1,0 +1,8 @@
+{
+  "index": "상태 전이 규칙",
+  "holding": "휴회 정책",
+  "suspended": "정지 정책",
+  "expired": "만료 / 휴면 정책",
+  "transfer": "양도 / 이관 정책",
+  "blacklist": "블랙리스트 / 미성년자 / 체험"
+}

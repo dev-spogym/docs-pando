@@ -1,0 +1,13 @@
+{
+  "index": "개요",
+  "organization": "조직 구조 및 역할",
+  "permissions": "기능별 권한 매트릭스",
+  "member": "회원 라이프사이클",
+  "finance": "결제 / 매출",
+  "class": "수업 / 예약",
+  "hr": "직원 / 인사",
+  "operations": "운영 정책",
+  "security": "보안 / 개인정보",
+  "notification": "알림 정책",
+  "audit": "감사 로그"
+}
