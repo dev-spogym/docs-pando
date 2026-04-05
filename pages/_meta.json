@@ -9,5 +9,6 @@
   "operations": "운영 정책",
   "security": "보안 / 개인정보",
   "notification": "알림 정책",
-  "audit": "감사 로그"
+  "audit": "감사 로그",
+  "kpi": "KPI 적용 현황"
 }
